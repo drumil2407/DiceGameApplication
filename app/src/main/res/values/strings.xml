@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="dice_game">Your dice output</string>
+    <string name="editable_text">Choose a dice to roll the dice.(e.g: 2,14, 24)</string>
+    <string name="roll_a_dice">Roll a dice</string>
+    <string name="save_dice">Save Dice</string>
+</resources>
